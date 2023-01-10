@@ -3,7 +3,9 @@ Este projeto tem o intuito de aplicar TDD - Test Driven Development ou Desenvolv
 Com esse projeto ministrado em um curso da Alura, tive o primeiro contato com TDD até então desconhecido por mim.
 JUnit é um grande facilitador para aplicar TDD com Java.
 Aplicando o TDD em nossos projetos nos ajudar a garantir a escrita de um código melhor e seguro pelo cobertura do teste, pois nessa prática de desenvolvimento criamos primeiro o Teste, Implementamos e Refatoramos, segue este ciclo.
- - imagem aqui
+
+### Ciclo TDD:
+ ![Ciclo TDD!](TDD_1.jpg)
 
 ## Curso
 - [TDD e Java: testes automatizados com JUnit](https://cursos.alura.com.br/course/tdd-java-testes-automatizados-junit)
